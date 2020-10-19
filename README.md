@@ -1,7 +1,8 @@
 # mrtoshkin.github.io
-mrtoshkin.github.io/Williams-Intellectual-Property
-mrtoshkin.github.io/Intrepid-Bodyworks
-mrtoshkin.github.io/Creative-Digital-Agencies
-mrtoshkin.github.io/vacancy-crest
-mrtoshkin.github.io/keksobooking
-mrtoshkin.github.io/Code-And-Magick
+
+- [Williams-Intellectual-Property](mrtoshkin.github.io/Williams-Intellectual-Property)
+- [Intrepid-Bodyworks](github.com/mrtoshkin/Intrepid-Bodyworks)
+- [Creative-Digital-Agencies](mrtoshkin.github.io/Creative-Digital-Agencies)
+- [vacancy-crest](mrtoshkin.github.io/vacancy-crest)
+- [keksobooking](mrtoshkin.github.io/keksobooking)
+- [Code-And-Magick](mrtoshkin.github.io/Code-And-Magick)
