@@ -2,14 +2,14 @@
 ## Williams Intellectual Property
 [Website](https://mrtoshkin.github.io/Williams-Intellectual-Property "mrtoshkin.github.io/williams-intellectual-property") | [Github](https://github.com/mrtoshkin/Williams-Intellectual-Property "github.com/mrtoshkin/williams-intellectual-property") - сайт патентного агентства (22 страницы).
 
-<a href="williams-intellectual-property/main.jpg">
-  <img src="williams-intellectual-property/main.jpg" height="300px" alt="main">
+<a href="williams/main.jpg">
+  <img src="williams/main.jpg" height="300px" alt="main">
 </a>
-<a href="williams-intellectual-property/menu.jpg">
-  <img src="williams-intellectual-property/menu.jpg" height="300px" alt="menu">
+<a href="williams/menu.jpg">
+  <img src="williams/menu.jpg" height="300px" alt="menu">
 </a>
-<a href="williams-intellectual-property/contact.jpg">
-  <img src="williams-intellectual-property/contact.jpg" height="300px" alt="contact">
+<a href="williams/contact.jpg">
+  <img src="williams/contact.jpg" height="300px" alt="contact">
 </a>
 
 Использованы: git, pug, scss, js, jquery, gulp, БЭМ, mobile first.
@@ -22,14 +22,14 @@
 ## Intrepid Bodyworks
 [Website](https://mrtoshkin.github.io/Intrepid-Bodyworks "mrtoshkin.github.io/intrepid-bodyworks") | [Github](https://github.com/mrtoshkin/Intrepid-Bodyworks "github.com/mrtoshkin/intrepid-bodyworks") -  сайт массажной компании (17 страниц).
 
-<a href="intrepid-bodyworks/main.jpg">
-  <img src="intrepid-bodyworks/main.jpg" height="300px" alt="main">
+<a href="intrepid/main.jpg">
+  <img src="intrepid/main.jpg" height="300px" alt="main">
 </a>
-<a href="intrepid-bodyworks/menu.jpg">
-  <img src="intrepid-bodyworks/menu.jpg" height="300px" alt="menu">
+<a href="intrepid/menu.jpg">
+  <img src="intrepid/menu.jpg" height="300px" alt="menu">
 </a>
-<a href="intrepid-bodyworks/contact.jpg">
-  <img src="intrepid-bodyworks/contact.jpg" height="300px" alt="contact">
+<a href="intrepid/contact.jpg">
+  <img src="intrepid/contact.jpg" height="300px" alt="contact">
 </a>
 
 Использованы: git, pug, scss, js, jquery, gulp, БЭМ, desktope first.
@@ -43,8 +43,8 @@
 ## Creative Digital Agencies
 [Website](https://mrtoshkin.github.io/Creative-Digital-Agencies "mrtoshkin.github.io/creative-digital-agencies") | [Github](https://github.com/mrtoshkin/creative-digital-agencies "github.com/mrtoshkin/creative-digital-agencies") - одностраничный лэндинг на bootstrap 4.5
 
-<a href="creative-digital-agencies/main.jpg">
-  <img src="creative-digital-agencies/main.jpg" height="300px" alt="main">
+<a href="creative/main.jpg">
+  <img src="creative/main.jpg" height="300px" alt="main">
 </a>
 
 ---
@@ -52,8 +52,8 @@
 ## Тестовое задание в компанию Crest
 [Website](https://mrtoshkin.github.io/vacancy-crest "mrtoshkin.github.io/vacancy-crest") | [Github](https://github.com/mrtoshkin/vacancy-crest "github.com/mrtoshkin/vacancy-crest")
 
-<a href="vacancy-crest/vacancy-crest.jpg">
-  <img src="vacancy-crest/vacancy-crest.jpg" height="300px" alt="main">
+<a href="crest/main.jpg">
+  <img src="crest/main.jpg" height="300px" alt="main">
 </a>
 
 ---
@@ -61,8 +61,8 @@
 ## Keksobooking
 [Website](https://mrtoshkin.github.io/keksobooking "mrtoshkin.github.io/keksobooking") | [Github](https://github.com/mrtoshkin/keksobooking "github.com/mrtoshkin/keksobooking") - личный проект обучения 1 уровня JS от HTML Academy.
 
-<a href="keksobooking/keksobooking.jpg">
-  <img src="keksobooking/keksobooking.jpg" height="300px" alt="main">
+<a href="keks/main.jpg">
+  <img src="keks/main.jpg" height="300px" alt="main">
 </a>
 
 ---

@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: mrToshkin
 description: Portfolio
+show_downloads: true
 github:
   github: https://github.com/mrToshkin
   email: toshkin.na@gmail.com
