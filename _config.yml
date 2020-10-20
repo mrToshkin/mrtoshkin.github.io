@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: mrToshkin
-description: github.io
+description: Portfolio
+show_downloads: true
